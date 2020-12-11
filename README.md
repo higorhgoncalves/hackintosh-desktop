@@ -2,7 +2,7 @@
 ### Hackintosh with OpenCore 0.6.3 for my PC.
 
 **Specs**
-* CPU - Intel i5 4400 Haswell;
+* CPU - Intel i5 4440 Haswell;
 * Video Card - AMD RX 470 4GB;
 * RAM - 16 GB;
 * SSD - 256 GB;
