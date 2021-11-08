@@ -6,6 +6,7 @@
 * Video Card - AMD RX 470 4GB;
 * RAM - 16 GB;
 * SSD - 256 GB;
+* Generic Bluetooth USB Dongle 4.0;
 
 **Working (Tested):**
 * Graphics Acceleration;
@@ -13,6 +14,9 @@
 * HDMI Audio;
 * USB Devices;
 * Ethernet Onboard;
+* USB Devices;
+* USB Bluetooth;
+* Reverse Teethering;
 
 **Downloads:**
 * [Opencore Configurator](https://mackie100projects.altervista.org/apps/opencoreconf/download-new-build.php?version=last)
