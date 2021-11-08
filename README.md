@@ -6,13 +6,13 @@
 * Video Card - AMD RX 470 4GB;
 * RAM - 16 GB;
 * SSD - 256 GB;
-* Wifi Teethering - MOTO G5s Plus;
 
 **Working (Tested):**
 * Graphics Acceleration;
 * HDMI Video;
 * HDMI Audio;
 * USB Devices;
+* Ethernet Onboard;
 
 **Downloads:**
 * [Opencore Configurator](https://mackie100projects.altervista.org/apps/opencoreconf/download-new-build.php?version=last)
